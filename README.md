@@ -20,7 +20,7 @@ Eu era bolsista em projetos de iniciação científica na faculdade, e o ultimo 
 
 ## Curso Computação
 
-Aos 23 anos comecei a cursar BCC, e foi nesse momento que levei outra "rasteira da vida", pois não consegui manter os custos de descolamento e alimentação da faculdade, então precisei trancar o curso no segundo semestre. Mas isso não me fez para de estudar, continuei estudando em casa até conhecer a Trybe.
+Aos 23 anos comecei a cursar BCC, e foi nesse momento que levei outra "rasteira da vida", pois não consegui manter os custos de deslocamento e alimentação da faculdade, então precisei trancar o curso no segundo semestre. Mas isso não me fez para de estudar, continuei estudando em casa até conhecer a Trybe.
 
 ## Curso Trybe
 
