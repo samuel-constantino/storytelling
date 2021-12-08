@@ -20,8 +20,8 @@ Eu era bolsista em projetos de iniciação científica na faculdade, e o ultimo 
 
 ## Curso Computação
 
-Aos 23 anos comecei a cursar BCC, e foi nesse momento que levei outra "rasteira da vida", pois não consegui manter os custos de deslocamento e alimentação da faculdade, então precisei trancar o curso no segundo semestre. Mas isso não me fez para de estudar, continuei estudando em casa até conhecer a Trybe.
+Aos 22 anos comecei a cursar BCC, e foi nesse momento que levei outra "rasteira da vida", pois não consegui manter os custos de deslocamento e alimentação da faculdade, então precisei trancar o curso no segundo semestre. Mas isso não me fez para de estudar, continuei estudando em casa até conhecer a Trybe.
 
 ## Curso Trybe
 
-Aos 24 anos iniciei minha jornada aqui na Trybe, um lugar onde venho aprimorando meus conhecimentos em hard skills e soft skills de forma exponencial e a um passo de conseguir meu tão almejado objetivo de trabalhar na área de programação.
+Aos 24 anos iniciei minha jornada na Trybe, um lugar onde venho aprimorando meus conhecimentos em hard skills e soft skills de forma exponencial e a um passo de conseguir meu tão almejado objetivo de trabalhar na área de programação.
